@@ -6,7 +6,7 @@
 /**
  * Example of using the LogisticRegression class for a loan approval.
  * Requires two data files. A training file of samples and
- * a label file for the corresponding samile in the training file.
+ * a label file for the corresponding sample in the training file.
  * Training file has credit score, annual income, and age.
  * Lable file has one label for each corresponding row of the data file.
  * 
